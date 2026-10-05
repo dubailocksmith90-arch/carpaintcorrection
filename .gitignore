@@ -1,0 +1,19 @@
+# generated output
+dist/
+
+# dependencies (none required, but ignore if ever added)
+node_modules/
+package-lock.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# logs
+*.log
+npm-debug.log*

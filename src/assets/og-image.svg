@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="72%" cy="18%" r="65%">
+      <stop offset="0%" stop-color="#f5a524" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#f5a524" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#f5a524" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="car" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b2b33"/>
+      <stop offset="55%" stop-color="#1a1a20"/>
+      <stop offset="100%" stop-color="#33302a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0a0a0c"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g transform="translate(88,150)">
+    <rect x="0" y="0" width="132" height="132" rx="30" fill="#141419" stroke="#f5a524" stroke-width="6"/>
+    <circle cx="66" cy="66" r="30" fill="none" stroke="#f5a524" stroke-width="9"/>
+    <circle cx="66" cy="66" r="12" fill="#f5a524"/>
+    <path d="M104 22l3.6 7.8 7.8 3.6-7.8 3.6-3.6 7.8-3.6-7.8-7.8-3.6 7.8-3.6z" fill="#ffcf6b"/>
+  </g>
+  <text x="252" y="205" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="64" font-weight="800" fill="#f5f3ee">Car Paint Correction</text>
+  <text x="254" y="262" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="34" font-weight="600" letter-spacing="6" fill="#f5a524">MANCHESTER</text>
+  <text x="254" y="330" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="30" fill="#aaa49a">Machine polishing · Swirl &amp; scratch removal · Ceramic coating</text>
+  <text x="254" y="380" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="30" fill="#aaa49a">Studio in Urmston + mobile across Greater Manchester</text>
+  <rect x="88" y="452" width="300" height="72" rx="14" fill="#f5a524"/>
+  <text x="238" y="499" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="32" font-weight="800" fill="#1c1305">Free 30-second quote</text>
+  <text x="430" y="499" font-family="-apple-system,'Segoe UI',Roboto,Arial,sans-serif" font-size="30" font-weight="600" fill="#f5f3ee">+44 7482 225323 · Open 24 hours</text>
+</svg>
